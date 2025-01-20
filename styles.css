@@ -45,6 +45,7 @@ body {
   color: #ffffff;
 }
 
+
 .buttons-container {
   display: flex;
   padding: 0 20px;
@@ -77,8 +78,14 @@ body {
   pointer-events: none;
 }
 
-.btn:hover {
-  background-color: transparent;
+button:hover {
+  background-color: transparent;  
+  border: none;  
+}
+
+button:active {
+  transform: scale(0.95);  
+  background-color: transparent; 
 }
 
 .vertical {
