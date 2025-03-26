@@ -1,5 +1,11 @@
 # Calculator
 
+## Live Demo
+
+Check out the live demo of my calculator project here:
+
+[Live Calculator](https://vroces.github.io/Calculator/)
+
 Requirements:
 The application should take 2 numbers, and
 support 4 operations (+, / , x , -) 
