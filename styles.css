@@ -16,7 +16,7 @@ body {
 .calculator {
   width: 630px;
   height: 612px;
-  background-image: url("/Module4/Calculator/assets/america.png");
+  background-image: url("./assets/america.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
